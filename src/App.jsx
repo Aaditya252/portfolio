@@ -45,7 +45,7 @@ const App = () => {
         '4th Runner-Up award winner at NASA SpaceX 2025 Challenge.'
       ],
       tags: ['Python', 'PyTorch', 'CNN', 'OpenCV', 'Kalman Filter', 'Spatial-Temporal ML'],
-      github: 'https://github.com/adiver252',
+      github: 'https://github.com/Aaditya252',
     },
     {
       id: 'demometeor',
@@ -61,7 +61,7 @@ const App = () => {
         'Optimized render performance to maintain constant 60FPS UI response under heavy video processing streams.'
       ],
       tags: ['React.js', 'Three.js', 'JavaScript ES6+', 'WebSockets', 'TailwindCSS'],
-      github: 'https://github.com/adiver252',
+      github: 'https://github.com/Aaditya252',
     },
     {
       id: 'market-regime',
@@ -77,7 +77,7 @@ const App = () => {
         'Generated automated risk metric alerts based on forecasted macroeconomic regime transitions.'
       ],
       tags: ['Python', 'Unsupervised ML', 'React.js', 'Financial Modeling', 'Flask', 'Pandas'],
-      github: 'https://github.com/adiver252',
+      github: 'https://github.com/Aaditya252',
     },
     {
       id: 'hpatrader',
@@ -93,7 +93,7 @@ const App = () => {
         'Achieved sub-millisecond execution routing with robust risk management safety breakers.'
       ],
       tags: ['Rust', 'C++', 'Node.js', 'DEX Protocol', 'Algorithmic Trading', 'Solana/Web3'],
-      github: 'https://github.com/adiver252',
+      github: 'https://github.com/Aaditya252',
     }
   ];
 
@@ -312,7 +312,7 @@ const App = () => {
                   </a>
 
                   <a
-                    href="https://github.com/adiver252"
+                    href="https://github.com/Aaditya252"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center space-x-2 code-editor-bg hover:bg-slate-800 text-slate-200 px-6 py-3.5 rounded-xl font-semibold transition-all border border-slate-700 hover:border-slate-500"
@@ -866,7 +866,7 @@ const App = () => {
                 &copy; {new Date().getFullYear()} Aditya Verma. Designed & Built with React & Tailwind CSS.
               </div>
               <div className="flex items-center space-x-4">
-                <a href="https://github.com/adiver252" target="_blank" rel="noopener noreferrer" className="hover:text-slate-300 transition-colors">
+                <a href="https://github.com/Aaditya252" target="_blank" rel="noopener noreferrer" className="hover:text-slate-300 transition-colors">
                   GitHub
                 </a>
                 <span>•</span>
